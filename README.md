@@ -1,4 +1,4 @@
-# Computer Vision Foundations with Keras - ANN and CNN Projects
+# Computer Vision Foundations with Keras 
 
 Welcome to the "Computer Vision Foundations with Keras" repository! This repository contains various projects focused on Artificial Neural Networks (ANN) and Convolutional Neural Networks (CNN) for computer vision tasks using the Keras deep learning framework.
 
@@ -8,8 +8,6 @@ Welcome to the "Computer Vision Foundations with Keras" repository! This reposit
 - [Projects](#projects)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -49,7 +47,7 @@ pip install keras numpy matplotlib
 1. Clone the repository to your local machine:
 
 ```
-git clone https://github.com/your_username/Computer-Vision-Foundations.git
+git clone https://github.com/kahlulz/Computer-Vision-Foundations.git
 ```
 
 
@@ -59,16 +57,3 @@ git clone https://github.com/your_username/Computer-Vision-Foundations.git
 
 3. Follow the instructions in the project's script to explore and modify the code as needed.
 
-## Contributing
-
-Contributions to this repository are welcome! If you have any suggestions, bug fixes, or additional projects related to computer vision with Keras, feel free to open an issue or submit a pull request. Please make sure to follow the guidelines for contributing.
-
-## License
-
-This repository is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code in this repository for personal and educational purposes. However, please refer to the license file for more details on the terms and conditions.
-
----
-
-We hope you find these projects helpful in understanding and applying Keras for computer vision tasks. If you have any questions or need further assistance, please don't hesitate to reach out.
-
-Happy coding and exploring the fascinating world of computer vision with Keras!
